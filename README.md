@@ -2,6 +2,8 @@
 
 Samodzielna strona statyczna HTML/CSS/JavaScript. Bez formularza, backendu, npm i zależności od Shoper. Zawiera lokalne zdjęcia, poprawki mobilne, karuzelę marek i rozwijane FAQ. Górne menu sekcji zostało usunięte.
 
+Adres strony: https://juks0.github.io/exerion-zamowienia-publiczne/
+
 ## Publikacja
 
 Na GitHub Pages: **Settings → Pages → Deploy from a branch → main → /(root)**. Plik `.nojekyll` pozwala publikować gotowe pliki statyczne.
